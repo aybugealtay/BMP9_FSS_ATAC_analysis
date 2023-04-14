@@ -32,4 +32,4 @@ Analysis steps:
 
 4. We are interested in 3 TFs (GC-SBEs, 5bp GC-SBEs and SBEs) found in the analysis. What are the Further investigate the 3 TFs: GC-SBEs, 5bp GC-SBEs and SBEs
 - Find the BMP9 specific regions that can be bound by the above-mentioned TFs & Obtain the sequences of these regions || [vignette]vignettes/get_regions_binging_both_motif5_and_motif6_200bp.ipynb)
-- Find the number of sequences matches for each TF || [vignette](vignettes/TF_sequence_match_analysis.ipynb)
+- Find the number of sequence matches for each TF || [vignette](vignettes/TF_sequence_match_analysis.ipynb)
