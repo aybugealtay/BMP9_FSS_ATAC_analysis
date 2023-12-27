@@ -1,5 +1,5 @@
 # BMP9_FSS_ATAC_analysis
-Scripts used in the data analysis of the paper titled as [BMP9 and Fluid Shear Stress  regulate endothelial chromatin accessibility  and expression of SMAD low affinity target genes] (https://www.sciencedirect.com/science/article/pii/S2589004223014827?ssrnid=4290059&dgcid=SSRN_redirect_SD)
+Scripts used in the data analysis of the paper titled as [BMP9 and Fluid Shear Stress  regulate endothelial chromatin accessibility  and expression of SMAD low affinity target genes](https://www.sciencedirect.com/science/article/pii/S2589004223014827?ssrnid=4290059&dgcid=SSRN_redirect_SD)
 
 
 The paper analyses ATAC-seq data of 4 different conditions:
